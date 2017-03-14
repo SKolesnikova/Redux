@@ -1,0 +1,54 @@
+{
+  "name": "redux-tutorial",
+  "version": "1.0.0",
+  "description": "Redux-tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKolesnikova/Redux.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "SKolesnikova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SKolesnikova/Redux/issues"
+  },
+  "homepage": "https://github.com/SKolesnikova/Redux#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "babel-core": "^6.24.0",
+    "babel-eslint": "^7.1.1",
+    "babel-loader": "^6.4.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "css-loader": "^0.27.3",
+    "eslint": "^3.17.1",
+    "eslint-loader": "^1.6.3",
+    "eslint-plugin-react": "^6.10.0",
+    "express": "^4.15.2",
+    "npm-install-webpack-plugin": "^4.0.4",
+    "postcss-loader": "^1.3.3",
+    "precss": "^1.4.0",
+    "react-hot-loader": "^1.3.1",
+    "style-loader": "^0.13.2",
+    "webpack": "^1.12.12",
+    "webpack-dev-middleware": "^1.10.1",
+    "webpack-hot-middleware": "^2.17.1"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "babel-runtime": "^6.23.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.3",
+    "redux": "^3.6.0"
+  }
+}
