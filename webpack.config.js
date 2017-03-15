@@ -20,7 +20,7 @@ module.exports = {
         new webpack.optimize.OccurenceOrderPlugin(),
         new webpack.HotModuleReplacementPlugin(),
         new NpmInstallPlugin()
-    ],
+    ],     
     module: {
         preLoaders: [
             {
